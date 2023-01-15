@@ -6,6 +6,7 @@ if __name__=="__main__":
     highNum =0
     high =0
     i = 0
+    #
     for i in range(14):
         numCars = int(input("Enter number of Car(s) sold: "))
         cars.append(numCars)
